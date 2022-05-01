@@ -10,7 +10,7 @@ Tanggal      : 1 Mei 2022
 
 void insertionSort(int arr[], int n);
 /* Proses: Mengurutkan elemen array yang ada baik secara menaik (ascending)
-           ataupun menurun(Descending) dengan menggunakan algortima Insertion.
+           ataupun menurun(Descending) dengan menggunakan algoritma Insertion.
 /* I.S   : Sembarang
 /* F.S   : mencetak di layar hasil pengurutan*/
 
