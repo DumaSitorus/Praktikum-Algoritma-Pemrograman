@@ -10,7 +10,7 @@ Tanggal      : 1 Mei 2022
 
 void selectionSort(int array[], int n);
 /* Proses: Mengurutkan elemen array yang ada baik secara menaik (ascending)
-           ataupun menurun(Descending)dengan menggunakan algotima Selection.
+           ataupun menurun(Descending)dengan menggunakan algoritma Selection.
 /* I.S   : Sembarang
 /* F.S   : mencetak di layar hasil pengurutan*/
 
